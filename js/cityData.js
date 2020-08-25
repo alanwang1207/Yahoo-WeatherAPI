@@ -5,11 +5,28 @@
 	      { CName: '宜蘭縣', EName: 'Yilan' },
 		  { CName: '嘉義縣', EName: 'Chiayi' },
 		  { CName: '臺東縣', EName: 'Taitung' },
-		  { CName: '臺中市', EName: 'Taichung' }
+		  { CName: '臺中市', EName: 'Taichung' },
+		  { CName: '花蓮縣', EName: 'Taichung' },
+		  { CName: '澎湖縣', EName: 'Taichung' },
+		  { CName: '金門縣', EName: 'Taichung' },
+		  { CName: '連江縣', EName: 'Taichung' },
+		  { CName: '新北市', EName: 'Taichung' },
+		  { CName: '桃園市', EName: 'Taichung' },
+		  { CName: '臺南市', EName: 'Taichung' },
+		  { CName: '高雄市', EName: 'Taichung' },
+		  { CName: '基隆市', EName: 'Taichung' },
+		  { CName: '新竹縣', EName: 'Taichung' },
+		  { CName: '新竹市', EName: 'Taichung' },
+		  { CName: '苗栗縣', EName: 'Taichung' },
+		  { CName: '彰化縣', EName: 'Taichung' },
+		  { CName: '南投縣', EName: 'Taichung' },
+		  { CName: '雲林縣', EName: 'Taichung' },
+		  { CName: '嘉義縣', EName: 'Taichung' },
+		  { CName: '屏東縣', EName: 'Taichung' },
+
 	   ]
    }
 ];
-
 var WeekForcastUrl = 'https://opendata.cwb.gov.tw/api/v1/rest/datastore/F-D0047-091?';
 
 var WeekChinese={
